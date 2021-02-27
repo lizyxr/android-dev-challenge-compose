@@ -13,6 +13,7 @@ A puppy adoption app with a list of puppies and their details.
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Compose layout & animation is pretty easy to use. As a beginner, I can complete this app in few hours from scratch
 
 
 ## :camera_flash: Screenshots
